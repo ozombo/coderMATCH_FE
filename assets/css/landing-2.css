@@ -1,0 +1,33 @@
+body {
+    overflow-x: hidden;
+}
+
+.bg-light {
+    background-color: #f2f4f9 !important;
+}
+
+.pb_icon-gradient:before {
+    background: #00ca4c;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.pb_section {
+    padding: 4em 0;
+}
+
+.pb_cover_v3 a,
+.pb_xl_py_cover a {
+    color: rgba(255, 255, 255, 0.5);
+    border-bottom: 2px solid transparent;
+}
+
+
+/* .pb_cover_v3 a:hover, .pb_xl_py_cover a:hover {
+    color: white;
+    border-bottom: 2px solid white; } */
+
+.pb_cover_v3 .btn,
+.pb_xl_py_cover .btn {
+    color: white;
+}
